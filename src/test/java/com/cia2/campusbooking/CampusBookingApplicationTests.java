@@ -1,4 +1,4 @@
-package com.cia2.campus_booking;
+package com.cia2.campusbooking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
